@@ -1,1 +1,6 @@
-/*PLACE ALL OF YOUR STYLES HERE*/
+/*BORDER BOX FIX*/
+html{
+    box-sizing: border-box;
+}
+
+/*PLACE ALL OF YOUR STYLES BELOW THIS LINE*/
