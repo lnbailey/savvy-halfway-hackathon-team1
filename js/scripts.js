@@ -1,6 +1,6 @@
 //ADD YOUR CUSTOM JAVASCRIPT AND jQUERY HERE
-$('.gallery').on('click', 'img', function() {
+$('.gallery').on('click','img', function() {
    $(this).animate({
-       'height':'120%'
+       'width':'50vh'
    },500); 
 });
